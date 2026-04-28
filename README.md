@@ -6,5 +6,6 @@
   <img width="750" height="563" alt="评论与时间的关系" src="https://github.com/user-attachments/assets/5c679917-d1de-4687-a67e-5deb2de99883" />
 - 消费者信息展示：
   <img width="750" height="277" alt="64JH175)TLKR9O40VPL31AX" src="https://github.com/user-attachments/assets/96162ea8-9e2f-4d87-91a6-cf38392ac4aa" />
+### 完整项目报告见基于京东商城商品评论信息数据分析.pdf文件
 
 
